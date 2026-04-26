@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /request-quote/success
+Disallow: /admin
+Disallow: /api
+
+Host: https://aryabotanicalsglobal.com
+Sitemap: https://aryabotanicalsglobal.com/sitemap.xml
